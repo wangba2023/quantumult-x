@@ -39,9 +39,7 @@ host-suffix,sf3-ttcdn-tos.pstatp.com,REJECT
 host-SUFFIX,pglstatp-toutiao.com,REJECT
 host-suffix,p3-be-pack-sign.pglstatp-toutiao.com,REJECT
 host-suffix,sf3-be-pack.pglstatp-toutiao.com,REJECT
-host,*default.ixigua.com,REJECT
 host-suffix,v6-novelapp.ixigua.com,REJECT
-host,*novelapp.ixigua.com,REJECT
 host-suffix,v3-default.ixigua.com,REJECT
 host-suffix,v9-default.ixigua.com,REJECT
 host-suffix,v6-default.ixigua.com,REJECT
