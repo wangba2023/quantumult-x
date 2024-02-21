@@ -9,7 +9,7 @@ host,mssdk.volces.com,REJECT
 host,toutiaocloud.net,REJECT 
 host,p9-reading-sign.fqnovelpic.com,REJECT
 host,lf-,REJECT
-#host,snssdk.com,REJECT 
+host,snssdk.com,REJECT 
 host,toutiaocloud.com,REJECT
 host,douyinpic.com,REJECT 
 host,content-open.douyin.com,REJECT
@@ -57,4 +57,4 @@ IP-CIDR,117.92.229.188/32,REJECT
 IP-CIDR,101.36.166.16/32,REJECT
 IP-CIDR,180.96.2.114/32,REJECT
 # 番茄视频广告页的sdk agent都是ttplayer
-host,ttplayer*,REJECT
+host,*ttplayer*,REJECT
