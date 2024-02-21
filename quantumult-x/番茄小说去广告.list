@@ -9,7 +9,6 @@ host,mssdk.volces.com,REJECT
 host,toutiaocloud.net,REJECT 
 host,p9-reading-sign.fqnovelpic.com,REJECT
 host,lf-,REJECT
-host,snssdk.com,REJECT 
 host,toutiaocloud.com,REJECT
 host,douyinpic.com,REJECT 
 host,content-open.douyin.com,REJECT
@@ -21,18 +20,12 @@ host,pangolin-sdk-toutiao1.com,REJECT
 host,p6-ad-sign.byteimg.com,REJECT
 host,p9-ad-sign.byteimg.com,REJECT
 host,byteimg.com,REJECT
-host,i.snssdk.com,REJECT
-host,i-lq.snssdk.com,REJECT
 host,dig.bdurl.net,REJECT
-host-KEYWORD,zijieapi,REJECT
+host,zijieapi,REJECT
 host,ads3-normal-lq.zijieapi.com,REJECT
 host,ads5-normal-lq.zijieapi.com,REJECT
 host,polaris3-normal-lq.zijieapi.com,REJECT
 host,activity-ag.awemeughun.com,REJECT
-host,mcs.snssdk.com,REJECT
-host,tnc3-alisc1.snssdk.com,REJECT
-host,security-lq.snssdk.com,REJECT
-host,tnc3-aliec2.snssdk.com,REJECT
 host,is.snssdk.com,REJECT
 host,msync-im1-vip6-std.easemob.com,REJECT
 host,apd-pcdnwxlogin.teg.tencent-cloud.net,REJECT
